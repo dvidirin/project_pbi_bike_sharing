@@ -39,6 +39,8 @@ Inteligência Artificial (IA) que usa tecnologia de processamento de linguagem n
 - Foi criado uma empresa fictícia que faz aluguel de bicicletas.
 - Foi utilizado imagens e logos gerados por IA.
 - Métricas e KPIs também foram gerados por IA.
+- Foram adicionados os arquivos SQL usados junto com o Microsoft SQL Server 2022.
+- Pode ser usado para obter os dados diretamente com o CSV ou através do SQL Server.
 
 ---
 
