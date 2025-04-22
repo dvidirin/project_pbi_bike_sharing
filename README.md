@@ -65,4 +65,21 @@ Can you please provide some metrics or KPIs that you are looking for as an execu
 
 ---
 
+## Link do Dashboard no Google Drive para fazer Download
+
+### [DOWNLOAD](https://drive.google.com/drive/folders/1F58Gubpj2V5v2e-2bhu0T1GLPUcVUwKX?usp=sharing)
+
+---
+
+## Imagens
+
+<div align="center">
+  <img src="assets/images/foto1.png" alt="foto 1" width="50%">
+  <img src="assets/images/foto2.png" alt="foto 2" width="50%">
+  <img src="assets/images/foto3.png" alt="foto 3" width="50%">
+  <img src="assets/images/foto4.png" alt="foto 4" width="50%">
+</div>
+
+---
+
 ### Repositório relacionado ao portfólio de Power BI
